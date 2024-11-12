@@ -1,6 +1,6 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
-<h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
+<!-- <h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
 
 
 ### Languages
@@ -50,18 +50,18 @@
 <a href="https://kubernetes.io/" target="_blank"><img align="left" alt="Kubernetes" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/kubernetes.svg" /></a>
 <a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/jenkins.svg" /><br/></a>
 <br/><br/>
-<a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
+<a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a> -->
 
-<div style="display: flex; align-items: center">
+<!-- <div style="display: flex; align-items: center">
   <h1> 
     My GitHub Stats 
     <a href="#-my-github-stats--">
       <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px>
     </a>
   </h1>
-</div>
+</div> -->
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center" width="45%">
         <a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=alpine29&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" alt="HighAmbition211" /></a>
@@ -70,11 +70,11 @@
         <a href="#-my-github-stats--"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=alpine29&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true" alt="HighAmbition211" /></a>
     </td>
   </tr>
-</table>
+</table> -->
 
 <a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
-<h2>
+<!-- <h2>
   If you found this project useful or interesting, please consider giving it a 
   <a href="https://github.com/HighAmbition211/HighAmbition211/#">
     <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" style="width:25px"> Star
@@ -84,6 +84,6 @@
     Fork
   </a> 
   it and customize it to your needs!
-</h2> 
+</h2>  -->
 
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
